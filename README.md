@@ -6,4 +6,4 @@ Here's a pointless ordered list:
 2.Second Item
 3.Third Item
 
-## A meaninless H2
+## A meaningless H2
